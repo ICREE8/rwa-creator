@@ -1,4 +1,4 @@
-> **IMPORTANT:** *This repo is a work in progress, and contracts have not been audited. Use at your own risk.*
+> **IMPORTANT:** *This repo is a work in progress, and contracts have not been audited. Use at your own risk.* As of 9/23/2024
 
 <br/>
 <p align="center">
